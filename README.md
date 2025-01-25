@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     A[Start] --> B{Generate Random Number}
     B --> C[Input Guess from User]
